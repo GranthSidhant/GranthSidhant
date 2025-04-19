@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Sidhant Granth
 
-<!--
-**GranthSidhant/GranthSidhant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate and detail-oriented developer with a strong foundation in **Java**, **Web Development**, and **IoT**. I love building both backend systems and interactive tech-based experiences.
 
-Here are some ideas to get you started:
+## 🧠 Tech Stack I've Worked With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Web Development
+- **Frontend**: HTML, CSS, JavaScript, JSP
+- **Backend**: Java Servlets, JDBC, MySQL
+- **Tools**: Eclipse IDE, Apache Tomcat
+
+### ⚙️ Embedded Systems & IoT
+- **Microcontrollers**: ESP32 (WROOM)
+- **Displays**: 0.96” OLED (I2C)
+- **Languages**: Arduino C/C++
+
+### 📊 Databases
+- MySQL
+- Basic SQLite (planned for AI tool)
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 GitHub: [github.com/GranthSidhant](https://github.com/GranthSidhant)
+- 💼 Always exploring new opportunities in Web Development, IoT, and Tech Research
+
+---
+
+_Thanks for visiting my profile! More projects coming soon..._
