@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sidhant Granth
+# 👋 Hi, I'm Granth Sidhant
 
 Welcome to my GitHub! I'm a passionate and detail-oriented developer with a strong foundation in **Java**, **Web Development**, and **IoT**. I love building both backend systems and interactive tech-based experiences.
 
