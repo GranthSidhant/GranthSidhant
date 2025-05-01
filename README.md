@@ -48,11 +48,6 @@ A real-time weather application with location-based forecasts and interactive UI
 ### 📝 [To-Do List](https://github.com/GranthSidhant/To-Do-list-)
 A task management application with CRUD operations and local storage.
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GranthSidhant&theme=radical" alt="GitHub Streak" />
-</div>
 
 ## 🌟 Skills & Expertise
 
