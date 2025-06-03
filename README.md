@@ -1,5 +1,4 @@
-
-"""# 👋 Hi, I'm Granth Sidhant
+# 👋 Hi, I'm Granth Sidhant
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;IoT+Enthusiast;Web+Developer;Problem+Solver" alt="Typing SVG" />
@@ -79,7 +78,7 @@ I'm a passionate and detail-oriented developer with a knack for building **robus
 
 ### 📊 Databases
 - MySQL, MongoDB, SQLite  
-- Database design, optimisation, and querying
+- Database design, optimization, and querying
 
 ---
 
@@ -97,4 +96,3 @@ I'm a passionate and detail-oriented developer with a knack for building **robus
 ---
 
 _Thanks for stopping by — stay tuned for more exciting projects!_ 🚀
-"""
